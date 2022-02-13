@@ -15,6 +15,8 @@ pip2 install mechanize
 
 https://github.com/Sojib-Rock/jokar-sojib#jokar-sojib
 
+ls
 
 cd sojib-rock
 
+Python jokarlove.py
