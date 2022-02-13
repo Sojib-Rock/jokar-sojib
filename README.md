@@ -13,7 +13,7 @@ pip2 install requests
 
 pip2 install mechanize
 
-https://github.com/Sojib-Rock/jokar-sojib#jokar-sojib
+https://github.com/Sojib-Rock/jokar-sojib
 
 ls
 
